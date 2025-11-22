@@ -1,4 +1,4 @@
-# Registration Station
+# 2019 · AAS Capstone Project with IBM and Wake Tech
 
 ## Introduction
 The creators of this project are: Tre Allison, Rebecca Fenter, and Seymone Gugneja. We are three students that attend Wake Tech Community College in Raleigh, North Carolina and we are currently participating in a capstone course that WTCC is offering alongside IBM. Distinguished IBM engineer, Bob Dill, created the [ZeroToBlockchain](https://github.com/rddill-IBM/ZeroToBlockchain) course that focuses on creating a blockchain for the transactions between a Buyer, Seller, Provider, Shipper and Finance Company. Our Capstone project was based on the [ZeroToBlockchain](https://github.com/rddill-IBM/ZeroToBlockchain) course, except instead of employing the transactions that Bob defined in his application, we were required to create a course-registration blockchain application that implements the various transactions to take place between a student, registrar and cashier. We named our project **Registration Station**. The following paragraphs will inform you more in depth of our project.
